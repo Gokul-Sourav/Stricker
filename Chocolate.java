@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Chocolate {
 static
 {
-	//System.out.println("gjhkg");
+	
 	int a,count=1,sum=0;
 	a=new Scanner(System.in).nextInt();
 	int[] rating=new int[a];
