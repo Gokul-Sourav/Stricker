@@ -38,7 +38,7 @@ static
 			sum=sum+count;
 		}
 	}
-	System.out.println(sum);
+	System.out.println(sum+1);
 }
 public static void main(String[] args) {
 	
