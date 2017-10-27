@@ -1,0 +1,61 @@
+.shop {
+    width: 754px;
+    display: inline-block;
+    background-color: #fff;
+    margin: 0 18px 16px 0;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .2);
+    width: 848px;
+}
+
+
+.proceed{
+position: absolute;
+    right: 10px;
+    top: 5px;
+    color: tomato;
+    background: content-box;
+}
+.cancel{
+  vertical-align: middle;
+    height: 25px;
+    cursor: pointer;
+    width: 25px;
+}
+.h1, h1 {
+    font-size: 1.5rem;
+color: brown;
+}
+.tb{
+border-collapse: inherit;
+    background-color: transparent;
+    width: -webkit-fill-available;
+}
+.quant{
+    display: flex;
+    color: #212121;
+    -webkit-align-items: center;
+}
+
+.quant-button{
+      width: 28px;
+    height: 28px;
+    background: linear-gradient(#fff, #f9f9f9);
+    display: inline-block;
+    border: 1px solid #c2c2c2;
+    cursor: pointer;
+	position:centre;
+    font-size: 16px;
+    border-radius: 50%;
+    padding-top: 1px;
+    line-height: 1;
+}
+
+.quant-text{
+	    border: none;
+    width: 15%;
+    font-size: 14px;
+    font-weight: 500;
+    vertical-align: middle;
+    text-align: center
+}
